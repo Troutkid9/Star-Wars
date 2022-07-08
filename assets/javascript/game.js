@@ -303,7 +303,7 @@ $(document).ready(function () {
     18,
     10,
     200,
-    80,
+    210,
     "assets/audio/obiwan.mp3"
   );
   characters.clemence = new Character(
